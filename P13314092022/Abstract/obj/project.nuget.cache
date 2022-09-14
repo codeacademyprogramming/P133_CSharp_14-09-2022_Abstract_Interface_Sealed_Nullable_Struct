@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QRUZXmuuPvxpClY0HLm4GBc+pT+lxTV9Lj2YVeoD3xUO2m/A1qxk0IrHKVM8rTMh0IoXgubRtp0IGhnNwGozw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamid.mammadov\\Desktop\\P133\\ClassWork\\P13314092022\\Abstract\\Abstract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamid.mammadov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

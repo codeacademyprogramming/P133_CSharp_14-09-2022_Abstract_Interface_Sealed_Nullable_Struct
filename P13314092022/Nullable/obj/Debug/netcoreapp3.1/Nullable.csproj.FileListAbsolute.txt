@@ -1,0 +1,13 @@
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\obj\Debug\netcoreapp3.1\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\hamid.mammadov\Desktop\P133\ClassWork\P13314092022\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
